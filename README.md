@@ -5,7 +5,7 @@ Now I study ECS from Unity and for research I came up with a simple task. This i
 Game description:
 You need to run away from enemies. Enemies move only when the player moves. The goal is to collect as many objects (green squares) as possible before they catch you.
 
-![](http://drive.google.com/uc?export=view&id=1ptGYuVqyG67mrWwYSYXKh-z2-RXGsdI6)
+![](/ReadmeSource/preview.gif)
 
 PS. A Hybrid ECS was used. I did not use physics, for check collisions, I used the calculation of distance from object to target.
 
