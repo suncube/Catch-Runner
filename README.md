@@ -15,6 +15,3 @@ You need to run away from enemies. Enemies move only when the player moves. The 
 
 PS. A Hybrid ECS was used. I did not use physics, for check collisions, I used the calculation of distance from object to target.
 
-# 
-
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.donationalerts.com/r/suncube)
